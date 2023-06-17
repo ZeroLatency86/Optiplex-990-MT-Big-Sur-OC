@@ -1,0 +1,3 @@
+1. Remove AppleIntelFramebufferCapri.kext.
+2. Remove AppleIntelHD3000GraphicsGLDriver.bundle.
+3. Edit /System/Library/Extensions/AppleIntelSNBGraphicsFB.kext/Contents/Info.plist
